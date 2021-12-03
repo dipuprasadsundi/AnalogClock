@@ -1,3 +1,3 @@
 # AnalogClock
-AnalogClock using Html,Css and Javascript.
-Big Thanks to CodeWithHarry YouTube channel for help in this Project.
+Analog clock using HTML, CSS and Javascript.
+In this clock, it show current time.
